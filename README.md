@@ -39,9 +39,7 @@ The website is optimized for:
 
 
 
-<img width="1775" height="858" alt="image" src="https://github.com/user-attachments/assets/ffd969be-ce35-4095-a334-362ae48f533f" />
-<img width="1763" height="6112" alt="image" src="https://github.com/user-attachments/assets/1253bbca-6ad9-4adb-83f6-1dacf91f3937" />
-
+<img width="1763" height="6112" alt="image" src="https://github.com/user-attachments/assets/d292fc56-deac-476e-8506-b61e80974dd2" />
 
 
 
