@@ -36,32 +36,11 @@ The website is optimized for:
 * Tablet 📟
 * Mobile 📱
 
-## 🚀 Getting Started
 
-### Clone the Repository
 
-```bash
-git clone https://github.com/your-username/coffee-house.git
-```
 
-### Open the Project
+<img width="1775" height="858" alt="image" src="https://github.com/user-attachments/assets/ffd969be-ce35-4095-a334-362ae48f533f" />
 
-Open the `index.html` file in your preferred web browser.
 
-No additional installation or backend setup is required.
-
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-## 🎯 Purpose
-
-This project was created to practice and demonstrate frontend web development skills, including responsive layouts, modern UI design, and interactive web components.
-
-## 👨‍💻 Author
-
-Developed with ☕ and ❤️ by **Your Name**
-
-## 📄 License
 
 This project is open-source and available under the MIT License.
