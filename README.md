@@ -40,6 +40,7 @@ The website is optimized for:
 
 
 <img width="1775" height="858" alt="image" src="https://github.com/user-attachments/assets/ffd969be-ce35-4095-a334-362ae48f533f" />
-https://yh-maneeshaharshani.github.io/coffeeshop_website/
+![Uploading image.png…]()
+
 
 
